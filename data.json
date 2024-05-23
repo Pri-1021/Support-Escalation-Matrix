@@ -1,0 +1,1103 @@
+{
+    "departments": [
+        {
+            "name": "Implementation of Cyber Security Guidelines & Internet Services",
+            "subUnits": [
+                {
+                    "name": "New Internet Connectivity",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Internet Disconnectivity",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Internet connectivity updation",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Internet email ID creation",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Internet email id password reset",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+
+
+
+                {
+                    "name": "Controlled One-way Gateway",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Implementation of Cyber Security Guidelines",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Authorization / Unauthorization of Storage Media devices",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Updation and Management of Internet system with Windows",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Permission For Laptop (in/out) at CFEES",
+                    "supportLevels": [
+                        {
+                            "level": "Support",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                       
+                    ]
+                }
+            
+
+            ]
+        },
+        {
+            "name": "IT Audit Team ",
+            "subUnits": [
+                {
+                    "name": "IT Audit",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'"
+                            
+                            
+                        },
+                        {
+                            "name": "Sapna kharwar",
+                            "designation": "Sc-‘C’"
+                          },
+                          {
+                            "name": "A.K.Rai",
+                            "designation": "TO ‘B’"
+                          },
+                          {
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’"
+                          },
+                          {
+                            "name": "Pooja Yadav",
+                            "designation": "TO ‘A’"
+                          },
+                          {
+                            "name": "Vikas Kumar Bind",
+                            "designation": "TO ‘A’"
+                          },
+                          {
+                            "name": "Santoshi Kumari",
+                            "designation": "STA ‘B’"
+                          },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' " ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                }
+               
+            ]
+        },
+        {
+            "name": "DRONA Services",
+            "subUnits": [
+                {
+                    "name": "New DRONA Connectivity",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011- 23907252)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "DRONA Disconnectivity",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011- 23907252)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "DRONA Connectivity Updation",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011- 23907252)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Unified Communication Services (UCS)",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011- 23907252)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "DRONA email id creation",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011- 23907252)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "DRONA email id password reset",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011- 23907252)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "HFS(File Server)",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Data transfer from DRONA System to Internet system and vice-versa",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mayurpankh",
+            "subUnits": [
+                {
+                    "name": "Leave Management",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari *",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'(Mayurpankh Administrator)",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Handbag Allowance Reimbursement",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari *",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'(Mayurpankh Administrator)",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Newspaper Allowance Reimbursement",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari *",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'(Mayurpankh Administrator)",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Employee Group Management System",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari *",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'(Mayurpankh Administrator)",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Movement Order Module",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari *",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'(Mayurpankh Administrator)",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Office Automation Software",
+            "subUnits": [
+                {
+                    "name": "Vehicle Requisition Software",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        },
+                        {
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                },
+                {
+                    "name": "File Tracking Software",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        },
+                        {
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Online Video Conferencing Booking",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        },
+                        {
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Visitor’s Gate pass Software",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        },
+                        {
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Online Conferencing Hall Booking",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        },
+                        {
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                },
+                {
+                    "name": "CFEES e-portal website updation and management",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        },
+                        {
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Online IT Complaint Management Software",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        },
+                        {
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        },
+                        {
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Updation of forms according to QP",
+            "subUnits": [
+                {
+                    "name": "Updation of form and SOP as per Quality manual (QP) at e-portal website",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pooja Yadav",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907284)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                }
+               
+            ]
+        },
+        {
+            "name": "DRONA and Internet Website Updation of CFEES",
+            "subUnits": [
+                {
+                    "name": "DRONA Website Updation",
+                    "supportLevels": [
+                        {
+                            "level": "Support",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                      
+                    ]
+                },
+                {
+                    "name": "Internet Website Updation",
+                    "supportLevels": [
+                        {
+                            "level": "Support",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Video Conferencing",
+            "subUnits": [
+                {
+                    "name": "Video Conferencing & Webcasting (DRONA)",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Vikas Kumar Bind",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907159)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Ashutosh Kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011-23907252)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Internet VC & Webcasting Support",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Vikas Kumar Bind",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907159)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Ashutosh Kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011-23907252)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Others software",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Vikas Kumar Bind",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907159)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Ashutosh Kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011-23907252)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Antivirus",
+            "subUnits": [
+                {
+                    "name": "Installation of Antivirus",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari *",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Domain Controller",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari *",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Communication (Telephone / Fax) Services",
+            "subUnits": [
+                {
+                    "name": "New connection for telephone /fax service",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pooja Yadav",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907284)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Discontinuation of telephone /fax service",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pooja Yadav",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907284)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Repair of telephone / fax service",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pooja Yadav",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907284)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Telephone AMC",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pooja Yadav",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907284)"
+                        },
+                        {
+                            "name": "Vikash Kuamr Bind",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907159)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "IT Hardware AMC",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pooja Yadav",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907284)"
+                        },
+                        {
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        }
+                    ]
+                },
+                {
+                    "name": "IT Networking AMC",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh Kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011-23907252)"
+                        },
+                       
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "name": "Aadhar Enabled Bio-Metric Access System (AEBAS) Management",
+            "subUnits": [
+                {
+                    "name": "Creation / Enabling/ Disabling of id for Bio-Metric attendance system",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh Kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011-23907252)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Report generation",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Ashutosh Kumar Rai",
+                            "designation": "TO ‘B’",
+                            "phone": "(011-23907252)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Trilochan Singh Rathore",
+                            "designation": "Sc-'F' "  ,
+                            "phone": "(011-23907113)"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "name": "DRONA Application Management",
+            "subUnits": [
+                {
+                    "name": "Sending approved software requisition to DRDO HQR",
+                    "supportLevels": [
+                        {
+                            "level": "Support",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                
+                    ]
+                },
+                {
+                    "name": "Sanshray Support",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Sapna Kharwar",
+                            "designation": "Sc-‘C’",
+                            "phone": "(011-23907136)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "name": "NOC ",
+            "subUnits": [
+                {
+                    "name": "Retirement / Transfer NOC",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                }
+              
+            ]
+        },
+        {
+            "name": "Miscellaneous Services (Any other services not covered above)",
+            "subUnits": [
+                {
+                    "name": "Cartridge distribution",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Santoshi Kumari *",
+                            "designation": "STA-‘B’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Sapna Kharwar",
+                            "designation": "support38@company.com",
+                            "phone": "+1234567897"
+                        }
+                    ]
+                },
+                {
+                    "name": "DESKTOP, PRINTER/MFP, UPS Distribution",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pawan Kumar",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907333)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Telephone Distribution",
+                    "supportLevels": [
+                        {
+                            "level": "Support Level 1",
+                            "name": "Pooja Yadav",
+                            "designation": "TO ‘A’",
+                            "phone": "(011-23907284)"
+                        },
+                        {
+                            "level": "Support Level 2",
+                            "name": "Mamta Meena",
+                            "designation": "Sc-'D'",
+                            "phone": "(011-23907130)"
+                        }
+                    ]
+                }
+
+            ]
+        }
+        
+    ]
+}
